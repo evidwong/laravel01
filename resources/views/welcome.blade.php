@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel-Evid Wong
+                    Laravel - By Evid Wong
                 </div>
 
                 <div class="links">
